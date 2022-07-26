@@ -1,6 +1,7 @@
 - 👋 Hi, I'm @RoMinjun
 - 👀 I'm interested in automating tasks because I'm lazy
-- 🏫 I'm studying for my bachelor in Cloud Engineering 
+- 🏫 I'm studying for my bachelor in Cloud Engineering
+- 💼 I'm working as System Administrator as a side job
 - 🌱 I'm currently learning Bash 
 - 📫 How to reach me | Discord: RoMinJun#4371
 - 💞️ All tips are appreciated!
