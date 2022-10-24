@@ -1,16 +1,19 @@
-<h1 align="center">안녕하세요! I'm Romin!</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hack&size=80&duration=2500&pause=200&color=FF79C6&center=true&vCenter=true&width=1000&height=100&lines=Hello!;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!;Hallo!" alt="Typing SVG" /></a>
+
+<h1 align="center">My name's Romin and welcome to my profile!</h1>
 
 ###
-
-<img src="https://raw.githubusercontent.com/rominjun/rominjun/blob/output/snake.svg" alt="Snake animation" />
-
-###
+<br>
 
 <h2 align="left">About Me</h2>
 
-###
+<br>
 
-<p align="left">- 👋 Hi, I'm @RoMinjun<br>- 👀 I'm interested in automating tasks because I'm lazy<br>- 🏫 I'm studying for my bachelor in Cloud Engineering<br>- 💼 I'm working as a System Administrator as a side job<br>- 🌱 I'm currently learning Kubernetes & Docker<br>- 💞️ All tips are appreciated!</p>
+<img align="right" height="270" src="https://media.tenor.com/7l4PXSCFjjQAAAAd/huh-cat.gif"  />
+<br>
+<p align="left">- 🏠 Living in the Netherlands 🇳🇱<br>- 🌐 I speak Dutch 🇳🇱 and English 🇬🇧. Currently learning Korean 🇰🇷<br>- 👀 I'm interested in automating tasks because I'm lazy 💤<br>- 🎒 I'm studying for my bachelor in Cloud Engineering at <a href="https://www.saxion.nl/">Saxion University of Applied Sciences</a> <br>- 💼 I'm working as a System Administrator as a side job at <a href="https://avinty.com/">Avinty | Zorgvernieuwers, net als jij.</a><br>- 🌱 I'm currently learning Kubernetes & Docker.<br>- 💞️ All tips are appreciated!</p>
+
+<br>
 
 ###
 
@@ -33,14 +36,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=rominjun" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=rominjun" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=RoMinjun&theme=dracula" alt="Layout with last medium posts"  />
 </div>
 
 ###
@@ -103,6 +98,8 @@
 
 <p align="left"></p>
 
+<br>
+
 ###
 
 <h2 align="left">Contact</h2>
@@ -117,11 +114,5 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="200" src="https://media.tenor.com/7l4PXSCFjjQAAAAd/huh-cat.gif"  />
 
 ###
