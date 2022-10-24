@@ -9,7 +9,7 @@
 
 <br>
 
-<img align="right" height="260" src="https://media.tenor.com/7l4PXSCFjjQAAAAd/huh-cat.gif"  />
+<img align="right" height="245" src="https://media.tenor.com/7l4PXSCFjjQAAAAd/huh-cat.gif"  />
 <br>
 <p align="left">- 🏠 Living in the Netherlands 🇳🇱<br>- 🌐 I speak Dutch 🇳🇱 and English 🇬🇧. Currently learning Korean 🇰🇷<br>- 👀 Interested in automating tasks because I'm lazy 💤<br>- 🎒 Studying Cloud Engineering at <a href="https://www.saxion.nl/">Saxion University of Applied Sciences</a> <br>- 💼 System Administrator as a side job at <a href="https://avinty.com/">Avinty | Zorgvernieuwers, net als jij.</a><br>- 🌱 Currently learning Kubernetes & Docker.<br>- 💞️ All tips are appreciated!</p>
 
