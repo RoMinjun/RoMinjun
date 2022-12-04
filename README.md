@@ -34,9 +34,11 @@
 
 ###
 
+[comment]: <
 <div align="left">
   <img src="https://github-readme-stats-rominjun.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=rominjun" height="150" alt="languages graph"  />
 </div>
+>
 
 ###
 
