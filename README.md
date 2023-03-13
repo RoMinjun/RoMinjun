@@ -35,11 +35,21 @@
 
 ###
 
-<!---
-<div align="left">
-  <img src="https://github-readme-stats-rominjun.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=rominjun" height="150" alt="languages graph"  />
+<!-- 
+<div class="profile-stats">
+  <div class="stat">
+    <img src="https://github-readme-stats.vercel.app/api?username=rominjun&theme=rose_pine&hide_border=true" height="150" alt="languages graph"  />
+  </div>
+  <div class="stat">
+    <img src="https://streak-stats.demolab.com/?user=RoMinjun&theme=rose-pine&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="stats"  />
+  </div>
+  <div class="stat">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rominjun&theme=rose_pine&hide_border=true" height="150" alt="stats"  />
+  </div>
 </div>
--->
+
+<link rel="stylesheet" type="text/css" href="style.css"> -->
+
 
 ###
 
