@@ -11,7 +11,7 @@
 
 <img align="right" height="245" src="https://media.tenor.com/7l4PXSCFjjQAAAAd/huh-cat.gif"  />
 <br>
-<p align="left">- 🏠 Living in the Netherlands 🇳🇱<br>- 🌐 I speak Dutch and English.<br>- 👀 Interested in automating tasks because I'm lazy 💤<br>- 🎒 Currently studying Cloud Engineering at <a href="https://www.saxion.nl/">Saxion University of Applied Sciences</a> <br>- 🌱 Currently learning Kubernetes & Docker.<br>- 😎 All tips are appreciated!</p>
+<p align="left">- 🏠 Living in the Netherlands<br>- 🌐 I speak Dutch and English.<br>- 👀 Interested in automating tasks because I'm lazy 💤<br>- 🎒 Currently studying Cloud Engineering at <a href="https://www.saxion.nl/">Saxion University of Applied Sciences</a> <br>- 🌱 Currently learning Kubernetes & Docker.<br>- 😎 All tips are appreciated!</p>
 
 <br>
 
@@ -30,6 +30,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" width="52" alt="markdown logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" height="40" width="52" alt="powershell logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" height="40" width="52" alt="ansible logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" height="40" width="52" alt="terraform logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" height="40" width="52" alt="yaml logo" />
+          
+          
+          
+  
 </div>
 
 ###
@@ -57,7 +64,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="52" alt="ubuntu logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="40" width="52" alt="ubuntu logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" width="52" alt="debian logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" width="52" alt="windows8 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
@@ -81,10 +88,8 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" width="52" alt="vim logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="40" width="52" alt="atom logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" width="52" alt="intellij logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" width="52" alt="jetbrains logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="40" width="52" alt="nvim logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pulsar/pulsar-original.svg" height="40" width="52" alt="pulsar logo"  />
 </div>
 
 ###
@@ -102,6 +107,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" width="52" alt="apache logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="52" alt="nginx logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" width="52" alt="raspberrypi logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" width="52" alt="aws logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="40" width="52" alt="azure logo" />
 </div>
 
 ###
