@@ -11,7 +11,7 @@
 
 <img align="right" height="245" src="https://media.tenor.com/7l4PXSCFjjQAAAAd/huh-cat.gif"  />
 <br>
-<p align="left">- 🏠 Living in the Netherlands<br>- 🌐 I speak Dutch and English.<br>- 👀 Interested in automating tasks because I'm lazy 💤<br>- 🎒 Currently studying Cloud Engineering at <a href="https://www.saxion.nl/">Saxion University of Applied Sciences</a> <br>- 🌱 Currently learning Kubernetes & Docker.<br>- 😎 All tips are appreciated!</p>
+<p align="left">- 🏠 Living in the Netherlands<br>- 🌐 I speak Dutch, English and a little Korean.<br>- 👀 Interested in automating tasks because I'm lazy 💤<br>- 🎒 Currently studying Cloud Engineering at <a href="https://www.saxion.nl/">Saxion University of Applied Sciences</a> <br>- 🌱 Currently learning Kubernetes & Docker.<br>- 😎 All tips are appreciated!</p>
 
 <br>
 
