@@ -19,11 +19,14 @@
 
 <h2 align="left">Skills</h2>
 
+
 ###
 
 <h3 align="left">Languages</h3>
 
 ###
+
+<a href="https://roadmap.sh"><img align="right" src="https://roadmap.sh/card/tall/668da8628896c6f50b2f5500?variant=dark&roadmaps=devops%2Ckubernetes%2Cterraform%2Clinux" alt="roadmap.sh"/></a>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
@@ -40,6 +43,8 @@
 </div>
 
 ###
+
+
 
 <!-- 
 <div class="profile-stats">
@@ -111,8 +116,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="40" width="52" alt="azure logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="40" width="52" alt="azuredevops logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/portainer/portainer-original.svg" height="40" width="52" alt="portainer logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" height="40" width="52" alt="portainer logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" height="40" width="52" alt="portainer logo" /
 </div>
+
 
 ###
 
